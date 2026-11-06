@@ -12,7 +12,7 @@ This is the design I made for the box in Fusion360. You can find my source files
 The design features 3 parts:
 - There is the bottom part, that houses the electronics, including the servo mounts, buttons/inputs, the power system, and the arduino. There is also text on top of the switches and button so that users will understand what they do.
 
-![Photo of bottom case](Photos/BottonCase.png)
+![Photo of bottom case](Photos/BottomCase.png)
 
 The servo mounts are pillars with cuts for the servos, and pipes for the wires to reach the bottom.
 
