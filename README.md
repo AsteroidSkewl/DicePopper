@@ -27,7 +27,7 @@ The servo mounts are pillars with cuts for the servos, and pipes for the wires t
 
 - There is the top case, which keeps the dice and popper plate from flying out of the box.
 
-![Photo of top case](Photos/TopView.png)
+![Photo of top case](Photos/TopCase.png)
 
 My BOM.csv file is in the same place as this in the REPO, in the root under main. Otherwise click [this](BOM.csv).
 And as always, thanks for reading.
