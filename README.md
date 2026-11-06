@@ -30,4 +30,5 @@ The servo mounts are pillars with cuts for the servos, and pipes for the wires t
 ![Photo of top case](Photos/TopCase.png)
 
 My BOM.csv file is in the same place as this in the REPO, in the root under main. Otherwise click [this](BOM.csv).
+
 And as always, thanks for reading.
