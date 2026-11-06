@@ -1,1 +1,20 @@
+Servo Motors:
+Red wire -> 5V
+Brown wire -> GND
+Yellow wire -> Digital Pin
 
+Arduino Nano:
+Digital Pin #2 -> Servo #1
+Digital Pin #3 -> Servo #2
+Digital Pin #4 -> Servo #3
+Digital Pin #5 -> Servo #4
+Digital Pin #6 -> Pop-Pushbutton
+Digital Pin #7 -> Auto-switch
+
+Power system:
+TP4056 B+ -> 18650 +
+TP4056 B- -> 18650 -
+TP4056 OUT+ -> MT3608+
+TP4056 OUT- -> MT3608-
+MT3608+ -> Switch -> Arduino 5V
+MT3608- -> Arduino GND
