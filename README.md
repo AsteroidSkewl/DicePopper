@@ -11,6 +11,8 @@ Main functions:
 I wrote the firmware using Arduino IDE and C++. The code firstly includes the servo library and then defines the 4 servo motors. In the setup, it defines some pins, creates servo bodies, and writes all servos to their home position. In the loop there are two if statements: The first one is for the pushbutton and when it is clicked, it will shake the plate a bit before returning to its home position. The second if statement is for the switch, and when it is flicked, the servos will do the same thing as before every 30 seconds.
 I have included the .ino file for the code in the firmware folder. [Here](Firmware/Dicepopper.ino)
 
+To supplement the routing file and help make this project more accessible for people to make, I designed a schematic for the electronics. I am not going to make it into a PCB, but if others want to, they can. I have put the design files in [This folder](SCH/).
+
 This is the design I made for the box in Fusion360. You can find my source files and exported .stl files in the CAD folder [Here](CAD/).
 The design features 3 parts:
 - There is the bottom part, that houses the electronics, including the servo mounts, buttons/inputs, the power system, and the arduino. There is also text on top of the switches and button so that users will understand what they do.
